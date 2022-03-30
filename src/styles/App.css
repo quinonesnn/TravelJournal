@@ -1,0 +1,25 @@
+.color-background-main{
+  background-color: #F55A5A;
+}
+
+.color-main{
+  color: #F55A5A;
+}
+
+.gray{
+  color: #918E9B;
+}
+
+.card-image{
+  width: 300px;
+  height: 350px;
+}
+
+.country{
+  letter-spacing: 5px;
+}
+
+.location{
+  font-size: 50px;
+}
+
